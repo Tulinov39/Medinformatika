@@ -10,9 +10,10 @@ footer{
     background-color: aquamarine;
 }
 p{
-    text-align: right;
+    text-align:justify;
+    text-indent: 8ch;
 }
 h2,h3,h4{
-    color:rgb(112, 112, 192);
+    color:rgb(135, 135, 194);
     text-decoration-line: underline;
 }
